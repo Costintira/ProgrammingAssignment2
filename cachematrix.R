@@ -5,7 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
         
-        prin("The quick brown fox...")
+        print("The quick brown fox...")
 
 }
 
